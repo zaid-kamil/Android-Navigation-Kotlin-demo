@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PaymentAppDemo/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PaymentAppDemo/app/src/main/res/layout/fragment_money_amount.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PaymentAppDemo/app/src/main/res/layout/fragment_send_money.xml" value="0.33" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PaymentAppDemo/app/src/main/res/layout/fragment_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PaymentAppDemo/app/src/main/res/layout/fragment_status.xml" value="0.33" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PaymentAppDemo/app/src/main/res/layout/fragment_view_balance.xml" value="0.25" />
       </map>
     </option>
